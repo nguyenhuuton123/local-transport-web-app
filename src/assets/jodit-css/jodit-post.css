@@ -1,0 +1,28 @@
+.jodit-editor {
+    border: none !important;
+    font-size: 18px;
+}
+
+.jodit-wysiwyg {
+    overflow-x: hidden !important;
+}
+
+.jodit-container {
+    border: none !important;
+}
+
+.jodit-status-bar {
+    display: none !important;
+}
+
+#editor-post {
+    width: 100%;
+}
+
+@media (max-width: 900px) {
+    #editor-post {
+        font-size: 14px;
+        width: 100%;
+        height: 100%;
+    }
+}

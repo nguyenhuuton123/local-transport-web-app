@@ -1,0 +1,14 @@
+.jodit-workplace-admin .jodit-workplace {
+    height: 700px !important;
+    width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+.jodit-editor {
+    border: none !important;
+}
+
+.jodit-status-bar {
+    display: none !important;
+}
+
